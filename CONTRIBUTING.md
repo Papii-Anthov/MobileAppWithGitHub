@@ -9,7 +9,7 @@ Thank you for your interest in contributing! Here are some guidelines to help yo
 2. **Clone the Repository:**  
    Clone your forked repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Papii-Anthov/MobileAppWithGitHub.git
    ```
 
 3. **Create a New Branch:**  
